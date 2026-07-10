@@ -35,5 +35,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ## 🔥 GitHub Streak
+## 👀 Profile Views
 
+![](https://komarev.com/ghpvc/?username=amnaali050606-pixel&style=for-the-badge)
 ![GitHub Streak](https://streak-stats.demolab.com?user=amnaali050606-pixel&theme=tokyonight)![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)- 
