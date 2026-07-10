@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Amna 👋
 
-<!--
-**amnaali050606-pixel/amnaali050606-pixel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Electronics & Computing Student at COMSATS University
 
-Here are some ideas to get you started:
+💻 Currently learning Python and Machine Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Working on Python projects and building my GitHub portfolio
+
+🌱 Summer Intern in Project Management & Agentic AI
+
+## 🛠️ Languages & Tools
+
+- Python
+- Git
+- GitHub
+- VS Code
+
+## 📈 Current Goals
+
+- Complete CS50P
+- Learn Machine Learning
+- Build real-world projects
+- Become an ML Engineer
