@@ -21,3 +21,8 @@
 - Learn Machine Learning
 - Build real-world projects
 - Become an ML Engineer
+
+  ## 📊 GitHub Stats
+
+![Amna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=amnaali050606-pixel&show_icons=true&theme=tokyonight)
+- 
