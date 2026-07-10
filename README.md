@@ -24,11 +24,12 @@
 - Become an ML Engineer
 
   ## 📊 GitHub Stats
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=amnaali050606-pixel&show_icons=true&theme=tokyonight" height="170"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amnaali050606-pixel&layout=compact&theme=tokyonight" height="170"/>
-</p>## 🛠️ Tech Stack
+</p>
+
+## 🛠️ Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
