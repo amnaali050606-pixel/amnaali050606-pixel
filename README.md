@@ -1,3 +1,4 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Amna!;Electronics+%26+Computing+Student;Python+Developer;Aspiring+Machine+Learning+Engineer)](https://git.io/typing-svg)
 # Hi, I'm Amna 👋
 
 🎓 Electronics & Computing Student at COMSATS University
